@@ -200,11 +200,4 @@ button:hover {
     h1 {
         font-size: 2.85em;
     }
-
-    input,
-    button {
-        height: 40px;   
-        padding: 10px 25px;
-    }
-
 }

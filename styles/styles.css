@@ -201,4 +201,10 @@ button:hover {
         font-size: 2.85em;
     }
 
+    input,
+    button {
+        height: 35px;
+        padding: 5px 20px;
+    }
+
 }

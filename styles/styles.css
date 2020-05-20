@@ -190,8 +190,7 @@ button:hover {
 
     form {
         width: 85%;
-        margin: 0 auto;
-        bottom: 0;
+        margin: 0 auto 30px;
     }
 
     h1,

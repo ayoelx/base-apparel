@@ -205,4 +205,8 @@ button:hover {
     button {
         padding: 10px 30px;
     }
+
+    .error-icon {
+        right: 90px;
+    }
 }

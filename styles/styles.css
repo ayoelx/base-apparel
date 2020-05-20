@@ -188,7 +188,7 @@ button:hover {
     }
 
     form {
-        width: 65%;
+        width: 85%;
         margin: 0 auto;
         bottom: 0;
     }
@@ -200,5 +200,9 @@ button:hover {
 
     h1 {
         font-size: 2.85em;
+    }
+
+    button {
+        padding: 10px 30px;
     }
 }
